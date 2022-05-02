@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JM-free.
+- 👀 I’m interested in in building things using code.
+- 🌱 I’m currently learning Java and C++
